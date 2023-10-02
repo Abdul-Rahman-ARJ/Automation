@@ -12,3 +12,6 @@ function clickConnectButtons() {
 
 // Call the function to start clicking buttons
 clickConnectButtons();
+
+
+export default clickConnectButtons
